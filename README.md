@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou procurando emprego.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas.
-- 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/gabrielmellos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmellos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
