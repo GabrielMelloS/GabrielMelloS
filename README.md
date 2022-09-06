@@ -3,9 +3,9 @@
 - 🔭 Atualmente estou procurando emprego.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas.
 <div align="center">
-  <a href="https://github.com/gabrielmellos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmellos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmellos&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/GabrielMelloS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMelloS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMelloS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
