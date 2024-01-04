@@ -1,7 +1,7 @@
 ## Prazer! Me chamo Gabriel Mello
 
 - 🔭 Atualmente estou procurando emprego.
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Tecnólogo Análise e Desenvolvimento de Sistemas.
 - Realizo alguns trabalhinhos em JS
 - Exercícios em Python e em C#
 <div align="center">
