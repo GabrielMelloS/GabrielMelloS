@@ -1,6 +1,6 @@
 ## Prazer! Me chamo Gabriel Mello
 
-- 🔭 Accounting Apprentice 
+- 🔭 Tax Accounting  
 - 🌱 Technologist in systems analysis and development.
 - Realizo alguns trabalhinhos em JS
 - Exercícios em Python e em C#
