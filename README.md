@@ -39,14 +39,6 @@
 
 ---
 
-### 🐍 Snake comendo meu gráfico de contribuições
-
-<p align="center">
-  <img src="https://github.com/GabrielMelloS/GabrielMelloS/blob/output/github-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 📫 Onde me encontrar
 
 <p align="center">
