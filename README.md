@@ -1,6 +1,6 @@
 ## Prazer! Me chamo Gabriel Mello
 
-- 🔍Setor Fiscal & Emissão de Notas
+- 🔍Setor Fiscal & Lançamento de Notas
 - 💻Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 🖥 Realizo alguns projetos em JavaScript, além de exercícios em Python e C#
 
