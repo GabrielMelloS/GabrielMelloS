@@ -1,9 +1,9 @@
 ## Prazer! Me chamo Gabriel Mello
 
-- 🔭 Tax Accounting  
-- 🌱 Technologist in systems analysis and development.
-- Realizo alguns trabalhinhos em JS
-- Exercícios em Python e em C#
+- 🔍Setor Fiscal & Emissão de Notas
+- 💻Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 🖥 Realizo alguns projetos em JavaScript, além de exercícios em Python e C#
+
 <div align="center">
   <a href="https://github.com/GabrielMelloS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMelloS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
