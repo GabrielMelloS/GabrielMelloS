@@ -49,3 +49,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gabrielmellos" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabrielmellos?trk=profile-badge">Gabriel da Silveira Mello</a></div>
+              
