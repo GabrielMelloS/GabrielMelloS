@@ -25,15 +25,6 @@
 </div>
 
 <br/>
-
 <div align="right">
   <img src="https://i.ibb.co/LkrVsPF/oie-transparent.png" height="150" style="border-radius: 50px;">
 </div>
-
----
-
-### 🐍 Snake comendo meu gráfico de contribuições
-
-<p align="center">
-  <img src="https://github.com/GabrielMelloS/GabrielMelloS/blob/output/github-snake.svg" alt="Snake animation" />
-</p>
